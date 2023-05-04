@@ -1,0 +1,3 @@
+https://spark.apache.org/docs/latest/streaming-programming-guide.html
+
+https://github.com/apache/spark/blob/v3.4.0/examples/src/main/scala/org/apache/spark/examples/streaming/NetworkWordCount.scala
